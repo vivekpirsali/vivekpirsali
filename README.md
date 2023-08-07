@@ -1,4 +1,4 @@
-![logo](
+![logo](https://github.com/vivekpirsali/vivekpirsali/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Vivek Pirsali</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
